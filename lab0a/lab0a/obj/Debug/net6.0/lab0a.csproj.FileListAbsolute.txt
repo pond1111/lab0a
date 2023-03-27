@@ -1,0 +1,15 @@
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\bin\Debug\net6.0\lab0a.exe
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\bin\Debug\net6.0\lab0a.deps.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\bin\Debug\net6.0\lab0a.runtimeconfig.json
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\bin\Debug\net6.0\lab0a.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\bin\Debug\net6.0\lab0a.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.csproj.AssemblyReference.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.AssemblyInfoInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.AssemblyInfo.cs
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.csproj.CoreCompileInputs.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\refint\lab0a.dll
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.pdb
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\lab0a.genruntimeconfig.cache
+C:\Users\pondt\OneDrive\เอกสาร\GitHub\lab0a\lab0a\lab0a\obj\Debug\net6.0\ref\lab0a.dll
